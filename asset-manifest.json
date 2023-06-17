@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoVerse/static/css/main.ceedc925.css",
+    "main.js": "/CryptoVerse/static/js/main.fbc6bb78.js",
+    "index.html": "/CryptoVerse/index.html",
+    "main.ceedc925.css.map": "/CryptoVerse/static/css/main.ceedc925.css.map",
+    "main.fbc6bb78.js.map": "/CryptoVerse/static/js/main.fbc6bb78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceedc925.css",
+    "static/js/main.fbc6bb78.js"
+  ]
+}
